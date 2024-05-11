@@ -1,0 +1,84 @@
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.exe
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.deps.json
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.runtimeconfig.json
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.pdb
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\McProtocol.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\BLL.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\DAL.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\Model.dll
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\BLL.pdb
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\Model.pdb
+E:\c#_project\winform\Demo\bin\x86\Debug\net6.0-windows7.0\DAL.pdb
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.AssemblyReference.cache
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Form1.resources
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Login.resources
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Main.resources
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Mapping.resources
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.GenerateResource.cache
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.AssemblyInfoInputs.cache
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.AssemblyInfo.cs
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.CoreCompileInputs.cache
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.CopyComplete
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.dll
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\refint\Demo.dll
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.pdb
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.genruntimeconfig.cache
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\ref\Demo.dll
+E:\c#_project\winform\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Device.resources
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.exe
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.deps.json
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.runtimeconfig.json
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\Demo.pdb
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\McProtocol.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\BLL.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\DAL.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\Model.dll
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\BLL.pdb
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\Model.pdb
+E:\c#_project\winform - 副本\Demo\bin\x86\Debug\net6.0-windows7.0\DAL.pdb
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.AssemblyReference.cache
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Device.resources
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Form1.resources
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Login.resources
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Main.resources
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Mapping.resources
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.GenerateResource.cache
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.AssemblyInfoInputs.cache
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.AssemblyInfo.cs
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.CoreCompileInputs.cache
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.CopyComplete
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.dll
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\refint\Demo.dll
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.pdb
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.genruntimeconfig.cache
+E:\c#_project\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\ref\Demo.dll
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Device.resources
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Form1.resources
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Login.resources
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Main.resources
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.Mapping.resources
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.AssemblyInfo.cs
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.dll
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\refint\Demo.dll
+C:\Users\admin\Desktop\winform - 副本\Demo\obj\x86\Debug\net6.0-windows7.0\Demo.pdb

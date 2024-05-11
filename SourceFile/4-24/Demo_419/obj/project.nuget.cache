@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShMmtRKkN7klFX/UvInmBXTlozFXwHD6JLPSaque+WhwdgQsSvW4guxPd3wpg1eNugMmPYw6h1wKmMfnfNUtug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\TD_0422\\SourceFile\\4-24\\Demo_419\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\csv\\1.0.31\\csv.1.0.31.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\fluentftp\\19.2.2\\fluentftp.19.2.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\lextm.sharpsnmplib\\10.0.9\\lextm.sharpsnmplib.10.0.9.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mcprotocol\\1.2.5\\mcprotocol.1.2.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.1.0\\microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\portable.bouncycastle\\1.8.2\\portable.bouncycastle.1.8.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\s7netplus\\0.20.0\\s7netplus.0.20.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.0.0\\system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\zebra.printer.sdk\\2.15.2634\\zebra.printer.sdk.2.15.2634.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,79 @@
+﻿[信息] 2024-03-20 14:45:40.059 thread:[06] 上料任务执行通知：{
+    "RequestCode": "202",
+    "Task_No": "2",
+    "Task_Type": "1",
+    "Data": {
+        "QsCodeArray": [
+            "0.50990240307CB01000-01"
+        ]
+    }
+}
+[信息] 2024-03-20 14:51:45.368 thread:[06] 上料任务：{
+    "RequestCode": "202",
+    "Task_No": "2",
+    "Task_Type": "1",
+    "PLINState": "2",
+    "JiTaiNo": "0"
+}
+[信息] 2024-03-20 14:52:35.168 thread:[06] 上料任务：{
+    "RequestCode": "202",
+    "Task_No": "2",
+    "Task_Type": "1",
+    "PLINState": "2",
+    "JiTaiNo": "0"
+}
+[信息] 2024-03-20 14:54:17.819 thread:[06] 上料任务：{
+    "RequestCode": "202",
+    "Task_No": "20",
+    "Task_Type": "1",
+    "PLINState": "2",
+    "JiTaiNo": "0"
+}
+[信息] 2024-03-20 14:54:23.710 thread:[08] 上料任务：{
+    "RequestCode": "202",
+    "Task_No": "2",
+    "Task_Type": "1",
+    "PLINState": "2",
+    "JiTaiNo": "0"
+}
+[信息] 2024-03-20 14:55:04.717 thread:[06] 上料任务：{
+    "RequestCode": "202",
+    "Task_No": "20",
+    "Task_Type": "1",
+    "PLINState": "2",
+    "JiTaiNo": "0"
+}
+[信息] 2024-03-20 14:55:32.069 thread:[07] 上料任务：{
+    "RequestCode": "202",
+    "Task_No": "20",
+    "Task_Type": "1",
+    "PLINState": "2",
+    "JiTaiNo": "0"
+}
+[信息] 2024-03-20 14:55:39.380 thread:[06] 上料任务执行通知：{
+    "RequestCode": "202",
+    "Task_No": "20",
+    "Task_Type": "1",
+    "Data": {
+        "QsCodeArray": [
+            "0.50990240307CB01000-01"
+        ]
+    }
+}
+[信息] 2024-03-20 14:57:05.357 thread:[06] 上料任务：{
+    "RequestCode": "202",
+    "Task_No": "2",
+    "Task_Type": "1",
+    "PLINState": "2",
+    "JiTaiNo": "0"
+}
+[信息] 2024-03-20 14:57:10.743 thread:[06] 上料任务执行通知：{
+    "RequestCode": "202",
+    "Task_No": "2",
+    "Task_Type": "1",
+    "Data": {
+        "QsCodeArray": [
+            "0.50990240307CB01000-01"
+        ]
+    }
+}

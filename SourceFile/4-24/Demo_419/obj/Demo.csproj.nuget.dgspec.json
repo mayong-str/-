@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\admin\\Desktop\\TD_0422\\SourceFile\\4-24\\Demo_419\\Demo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\admin\\Desktop\\TD_0422\\SourceFile\\4-24\\Demo_419\\Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\TD_0422\\SourceFile\\4-24\\Demo_419\\Demo.csproj",
+        "projectName": "Demo",
+        "projectPath": "C:\\Users\\admin\\Desktop\\TD_0422\\SourceFile\\4-24\\Demo_419\\Demo.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\TD_0422\\SourceFile\\4-24\\Demo_419\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "McProtocol": {
+              "target": "Package",
+              "version": "[1.2.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "S7netplus": {
+              "target": "Package",
+              "version": "[0.20.0, )"
+            },
+            "Zebra.Printer.SDK": {
+              "target": "Package",
+              "version": "[2.15.2634, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

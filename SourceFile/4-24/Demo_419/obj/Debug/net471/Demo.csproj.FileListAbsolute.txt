@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.exe.config
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.Form1.resources
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.Main.resources
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.Properties.Resources.resources
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.AssemblyInfo.cs
+C:\Users\admin\Desktop\Demo\obj\Debug\net471\Demo.csproj.CoreCompileInputs.cache

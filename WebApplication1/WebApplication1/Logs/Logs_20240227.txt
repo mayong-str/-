@@ -1,0 +1,36 @@
+﻿[信息] 2024-02-27 15:02:42.361 thread:[07] 上料任务：WebApplication1.Models.PostTaskRequest
+[信息] 2024-02-27 15:04:28.727 thread:[06] 上料任务：WebApplication1.Models.PostTaskRequest
+[信息] 2024-02-27 15:04:41.279 thread:[08] 上料任务：WebApplication1.Models.PostTaskRequest
+[信息] 2024-02-27 15:06:02.318 thread:[06] 上料任务：WebApplication1.Models.PostTaskRequest
+[信息] 2024-02-27 15:07:10.252 thread:[06] 上料任务：WebApplication1.Models.PostTaskRequest
+[信息] 2024-02-27 15:26:49.992 thread:[07] 上料任务：{
+    "RequestCode": "1001",
+    "Task_No": "1001",
+    "Task_Type": "1",
+    "PLINState": "1",
+    "JiTaiNo": "0"
+}
+[信息] 2024-02-27 15:27:39.911 thread:[06] 出库任务：{
+    "RequestCode": "1001",
+    "Task_No": "1001",
+    "Task_Type": "2",
+    "PLINState": "1",
+    "JiTaiNo": "2"
+}
+[信息] 2024-02-27 15:28:11.639 thread:[06] 上料任务执行通知：{
+    "RequestCode": "1001",
+    "Task_No": "1001",
+    "Task_Type": "1",
+    "Data": {
+        "QsCodeArray": [
+            "20290FCW010.50100231024AA01040-99",
+            "20290FCW010.50100231024AA01040-99"
+        ]
+    }
+}
+[信息] 2024-02-27 15:29:51.076 thread:[07] 出库任务执行通知：{
+    "RequestCode": "1001",
+    "Task_No": "1001",
+    "Task_Type": "2",
+    "Data": null
+}

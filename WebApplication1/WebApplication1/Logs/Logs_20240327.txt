@@ -1,0 +1,291 @@
+﻿[信息] 2024-03-27 16:42:39.734 thread:[05] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:43:20.861 thread:[06] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:43:20.941 thread:[06] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 16:46:47.906 thread:[06] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:46:48.067 thread:[06] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 16:46:55.438 thread:[06] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:46:55.466 thread:[06] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 16:47:28.468 thread:[06] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:47:28.500 thread:[06] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 16:51:27.108 thread:[05] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:51:27.293 thread:[05] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 16:51:53.166 thread:[05] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:51:53.200 thread:[05] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 16:52:40.631 thread:[08] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:52:40.785 thread:[08] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 16:54:38.558 thread:[06] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 16:54:38.727 thread:[06] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:06:54.535 thread:[10] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:06:54.748 thread:[10] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:07:41.129 thread:[25] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:07:41.159 thread:[25] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:08:54.149 thread:[10] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:08:54.180 thread:[10] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:15:27.844 thread:[19] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:15:27.888 thread:[19] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:16:45.719 thread:[19] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:16:45.763 thread:[19] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:17:28.222 thread:[19] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:17:28.279 thread:[19] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:21:00.167 thread:[22] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:21:00.195 thread:[22] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:21:54.548 thread:[22] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:21:54.584 thread:[22] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:22:41.645 thread:[10] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:22:41.679 thread:[10] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:23:10.262 thread:[22] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:23:10.305 thread:[22] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}
+[信息] 2024-03-27 17:24:06.625 thread:[13] 出库任务执行完成通知：{
+    "RequestCode": "202",
+    "Task_No": "1",
+    "Task_Type": "2",
+    "Data": null
+}
+[信息] 2024-03-27 17:24:06.663 thread:[13] 出库任务执行完成通知反馈：{
+  "res_code": "200",
+  "res_msg": "成功",
+  "Task_No": "1",
+  "Task_Type": "2",
+  "RequestCode": "202",
+  "RunResult": "OK",
+  "data": ""
+}

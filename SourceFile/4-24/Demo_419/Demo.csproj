@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+	<TargetFramework>net48</TargetFramework>
+	<!--<TargetFramework>net6.0-windows7.0</TargetFramework>-->
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>Demo.Program</StartupObject>
+    <Platforms>AnyCPU</Platforms>
+	<LangVersion>10.0</LangVersion>
+	<ApplicationIcon>bin\Debug\net48\TD.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net48\TD.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="McProtocol" Version="1.2.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="S7netplus" Version="0.20.0" />
+    <PackageReference Include="Zebra.Printer.SDK" Version="2.15.2634" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HzHehuaLog">
+      <HintPath>bin\Debug\net48\HzHehuaLog.dll</HintPath>
+    </Reference>
+    <Reference Include="SeimensPLC">
+      <HintPath>bin\Debug\net48\SeimensPLC.dll</HintPath>
+    </Reference>
+    <Reference Include="Trigger">
+      <HintPath>bin\Debug\net48\Trigger.dll</HintPath>
+    </Reference>
+    <Reference Include="ZebraPrinterSdk">
+      <HintPath>bin\Debug\net6.0-windows7.0\ZebraPrinterSdk.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
